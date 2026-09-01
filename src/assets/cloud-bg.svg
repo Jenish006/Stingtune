@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" fill="none">
+  <defs>
+    <radialGradient id="cloudGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#991B1B" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#78350F" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="500" cy="160" rx="450" ry="120" fill="url(#cloudGrad)"/>
+  <!-- Pixelated Cloud Japanese motifs -->
+  <g fill="#B91C1C" opacity="0.45">
+    <rect x="250" y="120" width="40" height="20" rx="4"/>
+    <rect x="270" y="100" width="50" height="25" rx="4"/>
+    <rect x="300" y="115" width="60" height="20" rx="4"/>
+    <rect x="640" y="130" width="50" height="20" rx="4"/>
+    <rect x="670" y="110" width="60" height="25" rx="4"/>
+    <rect x="710" y="125" width="45" height="20" rx="4"/>
+  </g>
+  <g fill="#F59E0B" opacity="0.3">
+    <rect x="380" y="140" width="80" height="20" rx="4"/>
+    <rect x="540" y="140" width="80" height="20" rx="4"/>
+  </g>
+</svg>

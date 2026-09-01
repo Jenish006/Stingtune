@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 44" fill="none">
+  <defs>
+    <linearGradient id="sheathGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0202"/>
+      <stop offset="30%" stop-color="#450A0A"/>
+      <stop offset="60%" stop-color="#991B1B"/>
+      <stop offset="90%" stop-color="#1C1917"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <path d="M15 12C5 15 0 20 0 24C0 28 5 33 15 36Q320 38 640 32L640 16Q320 10 15 12Z" fill="url(#sheathGrad)"/>
+  <rect x="625" y="14" width="15" height="20" rx="2" fill="#D97706" opacity="0.85"/>
+  <path d="M220 11V37M230 11V37M240 11V37" stroke="#DC2626" stroke-width="3"/>
+</svg>

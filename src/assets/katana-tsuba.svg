@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" fill="none">
+  <!-- Tsuba Guard -->
+  <ellipse cx="205" cy="35" rx="8" ry="28" fill="#4B5563" stroke="#D97706" stroke-width="2"/>
+  <ellipse cx="205" cy="35" rx="4" ry="16" fill="#1F2937"/>
+  <!-- Tsuka Handle -->
+  <rect x="5" y="24" width="195" height="22" rx="3" fill="#09090B" stroke="#7F1D1D" stroke-width="1.5"/>
+  <!-- Tsuka-Ito wrap diamonds -->
+  <g fill="#991B1B">
+    <polygon points="30,25 40,35 30,45 20,35"/>
+    <polygon points="60,25 70,35 60,45 50,35"/>
+    <polygon points="90,25 100,35 90,45 80,35"/>
+    <polygon points="120,25 130,35 120,45 110,35"/>
+    <polygon points="150,25 160,35 150,45 140,35"/>
+    <polygon points="180,25 190,35 180,45 170,35"/>
+  </g>
+  <!-- Kashira Pommel -->
+  <rect x="0" y="23" width="7" height="24" rx="2" fill="#D97706"/>
+</svg>
